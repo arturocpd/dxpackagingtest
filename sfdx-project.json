@@ -1,12 +1,22 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "packagefolder",
+            "package": "dxpackagingtest",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "name": "dxpackagingtest",
+    "namespace": "dxpackagingtest",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "54.0",
+    "packageAliases": {
+        "dxpackagingtest": "0Ho7Q00000000E4SAI"
     }
-  ],
-  "name": "dxpackagingtest",
-  "namespace": "dxpackagingtest",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
 }
