@@ -32,6 +32,7 @@
     "packageAliases": {
         "dxpackagingtest": "0Ho7Q00000000E4SAI",
         "dxpackagingtest@0.1.0-1": "04t7Q000000M0MJQA0",
-        "unlockedpackage": "0Ho7Q00000000E9SAI"
+        "unlockedpackage": "0Ho7Q00000000E9SAI",
+        "unlockedpackage@0.1.0-1": "04t7Q000000M0RAQA0"
     }
 }
